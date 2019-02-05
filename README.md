@@ -1,2 +1,2 @@
 # poly-demo
-New ROR project
+New ROR project - polymorphic assosiations
